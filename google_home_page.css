@@ -1,0 +1,197 @@
+#haut
+{
+    /*border: 1px solid black;*/
+    justify-content: flex-end;
+    display: flex;
+    top:0;left:0;right:0;width:100%;
+    align-items: center;
+}
+.element
+{
+  margin-top:5px;
+  margin-right:15px;
+  margin-left:15px;
+  align-items: center;
+}
+.connexion
+{
+  border: 0;
+  line-height: 2.5;
+  padding: 0 15px;
+  text-align: center;
+  border-radius: 4px;
+  font-size:0.8em;
+  font-weight: bold;
+  color:#FFFFFF;
+  background-color: rgba(68, 133, 244, 1);
+}
+.lien
+{
+ color:#020202;
+ text-decoration:none;
+ font-Size:0.9em;
+ font-family: arial;
+}
+.lien:hover
+{
+  text-decoration:underline;
+}
+.body
+{
+ /*border: 1px solid black;*/
+ display: flex;
+ flex-direction:column;
+ top:0;left:0;right:0;width:100%;height:80%;
+ height: 550px;
+ width: auto;
+}
+.googlelogo
+{
+  display: flex;
+  flex-direction:column;
+  padding-top:100px;
+  width:272px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: none;
+}
+.recherches
+{
+  display: flex;
+  justify-content: flex-start;
+  border:0.4px solid#2151;
+  height:40px;
+  width:450px;
+  border-radius: 50px;
+  margin-top:30px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: none;
+}
+.recherches:hover
+{
+    background-color: rgba(250, 250, 250, 10);
+    box-shadow: -1px 2px 10px 3px rgba(0, 0, 0, 0.3) inset;
+    text-decoration: underline;
+  }
+.loupes
+{
+ display: flex;
+ flex-direction:flex-start ;
+ text-align: center;
+ height:10px;
+ width:45px;
+ padding-top:50%;
+}
+.microphoe
+{
+  display: flex;
+  flex-direction:flex-end ;
+   text-align: center;
+}
+.boutoncentre
+{
+  display:flex;
+  flex-direction:center;
+  text-align:center;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: none;
+  padding:25px;
+}
+.aspectbouton
+{
+  border: 0;
+  line-height: 2.5;
+  padding:5px;
+  text-align: center;
+  border-radius: 4px;
+  font-size:0.8em;
+  background-color: rgba(250, 250, 250, 10);
+  margin-left: 15px;
+  margin-right: 15 px;
+}
+.prout
+{
+  text-decoration: none;
+  color:black;
+}
+.prem
+{
+  border:1px solid (250, 250, 250, 10);
+  background-color:#CECECE;
+  justify-content: flex-start;
+  display: flex;
+  top:0;left:0;right:0;width:100%;
+  align-items: center;
+  padding-bottom:10px;
+  padding-top:10px;
+  padding-left:5px;
+  padding-right:5px;
+}
+.France
+{
+  font-family: arial;
+  font-size:0.8em;
+  color:black;
+  opacity:80%;
+}
+.footer
+{
+  border:1px solid (250, 250, 250, 10);
+  background-color:#CECECE;
+  justify-content: center;
+  display: flex;
+  top:0;left:0;right:0;width:100%;
+  align-items: center;
+  padding-bottom:25px;
+  padding-left:5px;
+  padding-right:5px;
+}
+.kamulox
+{
+  font-family: arial;
+  font-size:0.8em;
+  color:black;
+  opacity:80%;
+  text-decoration: none;
+  padding-right:10px;
+  padding-left:10px;
+  padding-top:20px;
+  padding-bottom:none;
+  justify-content: bottom;
+
+}
+.kamulox:hover
+{
+  text-decoration: underline;
+}
+.images
+{
+  justify-content: flex-start;
+
+}
+.rick
+{
+border:1px;
+  display: flex;
+  height:200px;
+  width:300px;
+  border-radius: 50px;
+  margin-top:0;
+  margin-left: auto;
+  margin-right: auto;
+  justify-content: bottom;
+}
+.ghost
+{
+  height:10px;
+  width:150px;
+  justify-content: bottom;
+}
+.bas
+{
+  display: flex;
+  justify-content: bottom;
+}
+/*style="padding-top:109px" width="272" data-iml="1585658207154" data-atf="1">*/
